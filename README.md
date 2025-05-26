@@ -17,5 +17,5 @@ Python, R, SQL
 
 📊 GitHub Stats
 
-![Lukas's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=hash00x1&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=hash00x1&show_icons=true&theme=radical&count_private=true&include_all_commits=true))
+![Lukas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hash00x1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hash00x1&layout=compact&theme=radical)
