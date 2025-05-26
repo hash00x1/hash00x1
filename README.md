@@ -1,6 +1,7 @@
 👋 Welcome to my GitHub! 🚀
 
-Hi, I'm Lukas, a PhD Candidate at the Technical University of Munich, passionate about harnessing Data Science, Web3, and Machine Learning to explore decentralized systems. My work centers on understanding governance in Decentralized Autonomous Organizations (DAOs) and leveraging data-driven insights for blockchain innovation. Dive into my repositories to see how I blend research with cutting-edge technology!
+Hi, I'm Lukas, passionate about harnessing Data Science, Web3, and Machine Learning to explore decentralized systems. My work centers on understanding governance in Decentralized Autonomous Organizations (DAOs) and leveraging data-driven insights for blockchain innovation. 
+
 
 **📖 About Me**
 I’m a PhD Candidate at the TUM School of Management, Technical University of Munich, working at the intersection of Data Science and Web3. 
