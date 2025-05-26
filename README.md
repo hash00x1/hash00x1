@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Welcome to my GitHub! 🚀
 
-<!--
-**hash00x1/hash00x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Lukas, a PhD Candidate at the Technical University of Munich, passionate about harnessing Data Science, Web3, and Machine Learning to explore decentralized systems. My work centers on understanding governance in Decentralized Autonomous Organizations (DAOs) and leveraging data-driven insights for blockchain innovation. Dive into my repositories to see how I blend research with cutting-edge technology!
 
-Here are some ideas to get you started:
+**📖 About Me**
+I’m a PhD Candidate at the TUM School of Management, Technical University of Munich, working at the intersection of Data Science and Web3. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Research Interests: DAO Governance, Blockchain Analytics, AI and Agents for Decentralized Systems
+🌱 Currently Exploring: Agentic Infrastructures, Data Science for DAO Governance
+
+
+🛠️ Skills
+Python, R, SQL
+
+🚀 Featured Projects
+
+
+📊 GitHub Stats
+
