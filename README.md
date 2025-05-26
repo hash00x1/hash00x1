@@ -16,7 +16,7 @@ Data Science, Machine Learning, Python, R, SQL
 
 🚀 **Featured Projects:**
 For now, check out my [Semi-Supervised Classifier for Cryptocurrency Price Movements](https://github.com/hash00x1/semi-supervised-crypto-forecasting)
-and the langchain-based [basic monorepo for agentic workflows](https://github.com/ArchipelAi/archipel-monorepo).
+and the langchain-based [Base-repo for Complex Agentic Workflows](https://github.com/ArchipelAi/archipel-monorepo).
 
 📊 **GitHub Stats:**
 
