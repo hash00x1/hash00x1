@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub! 🚀
 
-Hi, I'm Lukas, passionate about harnessing Data Science, Web3, and Machine Learning to explore decentralized systems. My work centers on understanding governance in Decentralized Autonomous Organizations (DAOs) and leveraging data-driven insights for blockchain innovation. 
+Hi, I'm Lukas, passionate about applying Data Science, Web3, and Machine Learning to explore decentralized systems. My work centers on understanding governance in Decentralized Autonomous Organizations (DAOs) and leveraging data-driven insights for blockchain innovation. 
 
 
 **📖 About Me:**
