@@ -6,9 +6,9 @@ Hi, I'm Lukas, passionate about applying Data Science, Web3, and Machine Learnin
 **📖 About Me:**
 I’m a PhD Candidate at the TUM School of Management, Technical University of Munich, and visiting at Cambridge University, UK, working at the intersection of AI and Web3. 
 
-🔍 **Research Interests:** DAO Governance, Blockchain Analytics, AI and Agents for Decentralized Systems
+🔍 **Research Interests:** Data Science, DAO Governance, Blockchain Analytics, AI and Agents for Decentralized Systems
 
-🌱 **Currently Exploring:** Agentic Infrastructures, Data Science for DAO Governance
+🌱 **Currently Exploring:** Agentic Infrastructures, Agents for DAO Governance
 
 
 🛠️ **Skills:**
