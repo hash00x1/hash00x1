@@ -18,7 +18,7 @@ Data Science, Machine Learning, Python, R, SQL
 For now, check out my [Semi-Supervised Classifier for Cryptocurrency Price Movements](https://github.com/hash00x1/semi-supervised-crypto-forecasting)
 and the langchain-based [Base-repo for Complex Agentic Workflows](https://github.com/ArchipelAi/archipel-monorepo).
 
-**Upcoming Work**
+**Upcoming Work:**
 In time, I will open source the base-code for my [Orchestrator framework](https://arxiv.org/abs/2509.05651) - developed in collaboration with the University of Cambridge. As well as a base framework for multi-agent based crypto trading. Stay tuned... 
 
 📊 **GitHub Stats:**
