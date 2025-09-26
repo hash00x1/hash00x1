@@ -19,7 +19,7 @@ For now, check out my [Semi-Supervised Classifier for Cryptocurrency Price Movem
 and the langchain-based [Base-repo for Complex Agentic Workflows](https://github.com/ArchipelAi/archipel-monorepo).
 
 **Upcoming Work:**
-In time, I will open source the base-code for my [Orchestrator framework](https://arxiv.org/abs/2509.05651) - developed in collaboration with the University of Cambridge. As well as a fun project framework for multi-agent based crypto trading, inspired by the [Trading Agents paper](https://arxiv.org/abs/2412.20138). Stay tuned... 
+In time, I will open source the base-code for [Orchestrator framework](https://arxiv.org/abs/2509.05651) - developed in collaboration with the University of Cambridge. As well as a fun project framework for multi-agent based crypto trading, inspired by the [Trading Agents paper](https://arxiv.org/abs/2412.20138). Stay tuned... 
 
 📊 **GitHub Stats:**
 
